@@ -6,6 +6,7 @@
  */
 
 #include "game_server.h"
+#include <string.h> //needed for memset on newer versions of C++
 
 extern "C"
 {
